@@ -61,7 +61,7 @@ export default function Navbar() {
                 "text-[10px] font-semibold tracking-[0.2em] uppercase",
                 scrolled ? "text-brand-accent" : "text-brand-light"
               )}>
-                FREIGHT BROKERAGE
+                FREIGHT BROKERAGE LLC
               </span>
             </div>
           </Link>
