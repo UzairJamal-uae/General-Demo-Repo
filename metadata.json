@@ -1,0 +1,5 @@
+{
+  "name": "JWFB Freight Brokerage LLC",
+  "description": "JWFB Freight Brokerage LLC is a professional USA-based logistics brokerage specializing in reliable freight transportation, shipping, and supply chain solutions.",
+  "requestFramePermissions": ["geolocation"]
+}
